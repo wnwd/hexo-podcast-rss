@@ -40,7 +40,7 @@
     "camaro": "^6.0.0",
     "chai": "^6.0.0",
     "cheerio": "^1.0.0",
-    "eslint": "^7.0.0",
+    "eslint": "^10.0.0",
     "eslint-config-hexo": "^6.0.0",
     "hexo": "^8.0.0",
     "mocha": "^8.0.1",
