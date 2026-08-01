@@ -36,7 +36,7 @@
     "nunjucks": "^3.0.0"
   },
   "devDependencies": {
-    "@babel/eslint-parser": "^7.11.0",
+    "@babel/eslint-parser": "^8.0.0",
     "camaro": "^6.0.0",
     "chai": "^6.0.0",
     "cheerio": "^1.0.0",
